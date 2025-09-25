@@ -21,7 +21,7 @@ Se você quiser baixar o código para estudar ou fazer modificações, siga os p
 
 ```bash
 # 1. Clone o repositório para a sua máquina local:
-git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+git clone [https://github.com/rsvdrigo/cinemaVNW](https://github.com/rsvdrigo/cinemaVNW)
 
 # 2. Navegue para a pasta do projeto que foi criada:
 cd nome-do-seu-repositorio
@@ -29,7 +29,6 @@ cd nome-do-seu-repositorio
 # 3. Abra o arquivo `index.html` no seu navegador preferido.
 ```
 
-*(**Observação**: Não se esqueça de substituir `https://github.com/seu-usuario/nome-do-seu-repositorio.git` pela URL real do seu repositório no GitHub!)*
 
 ## ✨ Tecnologias Utilizadas
 
